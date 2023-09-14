@@ -11,7 +11,7 @@
         # 'security/crm_security.xml',
         'security/ir.model.access.csv',
 
-        'views/aaa_views.xml'
+        'views/tms_views.xml'
     ],
     # data files containing optionally loaded demonstration data
     'demo': [
